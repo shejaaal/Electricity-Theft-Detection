@@ -1,2 +1,31 @@
-# Electricity-Theft-Detection
-Electricity Theft Detection using Dynamic Classifier Selection Nov 2024 Used Random Forest, KNN, Gradient Boosting, SVM, and Isolation Forest. Applied ADASYN for class imbalance. Evaluated using Accuracy, Recall, and ROC-AUC. Dynamic classifier selection based on data variance. Improved theft detection performance.
+
+# ⚡ Electricity Theft Detection using Dynamic Classifier Selection
+
+**Date:** November 2024
+
+## 📝 Description
+Electricity theft detection project using machine learning with dynamic classifier selection based on data variance.
+
+## 🧠 Models Used
+- Random Forest  
+- K-Nearest Neighbors (KNN)  
+- Gradient Boosting  
+- Support Vector Machine (SVM)  
+- Isolation Forest
+
+## 🛠 Techniques
+- ADASYN for class imbalance  
+- Metrics: Accuracy, Recall, ROC-AUC
+
+## ✅ Outcome
+Improved detection performance and robustness in identifying electricity theft across varying data patterns.
+
+## 📂 Files
+- `electricity_theft_detection.ipynb`: Google Colab notebook  
+- `report.pdf`: Project report  
+- `README.md`: Project overview
+
+## ▶️ Run on Colab
+[Open in Colab](https://colab.research.google.com/)  
+(Upload the notebook to Colab manually or use the GitHub integration)
+
